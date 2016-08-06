@@ -1,0 +1,30 @@
+_repo: Thirty-Years-a-Slave--13-From-Bondage-to-Freedom--The-Institution-of-Slavery-as-Seen-on-the-P__10431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hughes, Louis
+    birthdate: 1832
+    gutenberg_agent_id: '3533'
+    url: http://www.gutenberg.org/2009/agents/3533
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hughes, Louis, b. 1832'
+- !lcsh 'Slaves -- Alabama -- Social conditions -- 19th century'
+- !lcc 'E300'
+- !lcsh 'African Americans -- Biography'
+- !lcsh 'Plantation life -- Alabama'
+- !lcsh 'Slaves -- United States -- Biography'
+- GITenberg
+title: "Thirty Years a Slave\r\nFrom Bondage to Freedom: The Institution of Slavery\
+  \ as Seen on the Plantation and in the Home of the Planter: Autobiography of Louis\
+  \ Hughes"
+url: http://www.gutenberg.org/ebooks/10431
