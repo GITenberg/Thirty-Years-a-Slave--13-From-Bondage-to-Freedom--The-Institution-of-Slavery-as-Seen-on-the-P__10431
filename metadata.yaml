@@ -1,5 +1,8 @@
 _repo: Thirty-Years-a-Slave--13-From-Bondage-to-Freedom--The-Institution-of-Slavery-as-Seen-on-the-P__10431
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hughes, Louis
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3533'
     url: http://www.gutenberg.org/2009/agents/3533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10431#Thirty-Years-a-Slave--13-From-Bondage-to-Freedom--The-Institution-of-Slavery-as-Seen-on-the-P_
 gutenberg_bookshelf: African American Writers
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
